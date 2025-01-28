@@ -1,0 +1,26 @@
+body{
+    font-family:helvetica;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    margin: 20px;
+}
+
+#score{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#ball{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 50%;
+    position:absolute;
+    top:50px;
+    left: 50px;
+}
